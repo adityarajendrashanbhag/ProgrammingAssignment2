@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## there are two functions makeCacheMatrix
-## makeCacherMatrix consists of set,get,setinv,getinv
+## makeCacherMatrix consists of set,get,setInverse,getInverse
 
 ## Write a short comment describing this function
 
